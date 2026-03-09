@@ -1,1 +1,6 @@
-# nicksbrn_
+# 🖐️ Olá, eu sou Nicolas Barni
+- Estudante de Sistemas Da Informação
+- Aprendendo programação
+- Atualmente estudando HTML
+# 🔧 
+-HTML
